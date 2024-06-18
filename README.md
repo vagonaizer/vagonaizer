@@ -6,6 +6,10 @@
 
 Hello! I'm a Computer Science student at Peter the Great St. Petersburg Polytechnic University (SPBSTU), specializing in Software Engineering (09.03.04). I am passionate about developing a wide range of applications and have experience in creating desktop applications, mobile apps, and websites.
 
+Для русскоязычных товарищей прилагаю ссылку на набор конспектов/гайдов написанных мною:
+
+<a href="https://carbonated-sceptre-6c8.notion.site/C-dbf8ca9676ec4315a4c12bce48fa7175?pvs=74">С++ гайд</a>
+
 ## Skills and Expertise
 
 - Languages: Go (Golang), Java, JavaScript, Python, C++
