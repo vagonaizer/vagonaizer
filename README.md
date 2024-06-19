@@ -4,7 +4,7 @@
 
 # About Me
 
-<b>Hello! I'm a Computer Science student at ![Alt text](https://www.spbstu.ru/local/templates/main/img/logo.png) Peter the Great St. Petersburg Polytechnic University (SPBSTU), specializing in Software Engineering (09.03.04). I am passionate about developing a wide range of applications and have experience in creating desktop applications, mobile apps, and websites.</b>
+<b>Hello! I'm a Computer Science student at <img src="https://www.spbstu.ru/local/templates/main/img/logo.png" width="100" height="100"/> Peter the Great St. Petersburg Polytechnic University (SPBSTU), specializing in Software Engineering (09.03.04). I am passionate about developing a wide range of applications and have experience in creating desktop applications, mobile apps, and websites.</b>
 
 Для русскоязычных товарищей прилагаю ссылку на набор конспектов/гайдов написанных мною:
 
