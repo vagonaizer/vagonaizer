@@ -7,10 +7,6 @@
 
 
 <br clear="left"/>
-
-<b> C++ enjoyer </b>
-
-
 # About Me
 
 <b>Hello! I'm a Computer Science student at Peter the Great St. Petersburg Polytechnic University (SPBSTU), specializing in Software Engineering (09.03.04). I am passionate about developing a wide range of applications and have experience in creating desktop applications, mobile apps, and websites.</b>
