@@ -1,4 +1,4 @@
-# ✍ Vladimir Fedunov <img src="https://www.spbstu.ru/local/templates/main/img/logo.png" width="30" height="30"/> CS student
+# ✍ Vladimir Fedunov   <img src="https://www.spbstu.ru/local/templates/main/img/logo.png" width="30" height="30"/> CS student
 
 **` Indie Software Developer `**
 
