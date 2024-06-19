@@ -8,8 +8,8 @@
 
 Для русскоязычных товарищей прилагаю ссылку на набор конспектов/гайдов написанных мною:
 
-<a href="https://carbonated-sceptre-6c8.notion.site/C-dbf8ca9676ec4315a4c12bce48fa7175?pvs=74">Конспект по C++</a></br>
-<a href="https://carbonated-sceptre-6c8.notion.site/Go-72ce11c912f647558304f8b64ea67f23">GOLang и элементы бэкенда</a>
+<b><a href="https://carbonated-sceptre-6c8.notion.site/C-dbf8ca9676ec4315a4c12bce48fa7175?pvs=74">Конспект по C++</a></b></br>
+<b><a href="https://carbonated-sceptre-6c8.notion.site/Go-72ce11c912f647558304f8b64ea67f23">GOLang и элементы бэкенда</a></b>
 
 
 
