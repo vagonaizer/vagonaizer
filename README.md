@@ -3,7 +3,8 @@
 
 <img align="left" src="https://www.spbstu.ru/local/templates/main/img/logo.png" width="30" height="30"/>
 
-Computer Science Student 2022-2026
+<b>Computer Science Student 2022-2026</b><br/>
+
 
 <br clear="left"/>
 
