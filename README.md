@@ -1,7 +1,13 @@
 # ✍ Vladimir Fedunov   
-<img src="https://www.spbstu.ru/local/templates/main/img/logo.png" width="30" height="30"/> Comp Sci Student
 
 
+<img align="left" src="https://www.spbstu.ru/local/templates/main/img/logo.png" width="30" height="30"/>
+
+Computer Science Student 2022-2026
+
+<br clear="left"/>
+
+and some text that is below the image (without an obnoxious number of <br /> tags).
 
 
 
