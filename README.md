@@ -7,12 +7,6 @@ Computer Science Student 2022-2026
 
 <br clear="left"/>
 
-and some text that is below the image (without an obnoxious number of <br /> tags).
-
-
-
-**` Indie Software Developer `**
-
 
 # About Me
 
