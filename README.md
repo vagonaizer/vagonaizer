@@ -1,5 +1,5 @@
 # ✍ Vladimir Fedunov   <p align="center">
-  <<mg src="https://www.spbstu.ru/local/templates/main/img/logo.png" width="30" height="30"/>
+  <img src="https://www.spbstu.ru/local/templates/main/img/logo.png" width="30" height="30"/>
 </p> 
 
 
