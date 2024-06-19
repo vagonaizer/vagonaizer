@@ -1,7 +1,7 @@
 # ✍ Vladimir Fedunov 
 
 Indie Software Developer 
-img src="https://www.spbstu.ru/local/templates/main/img/logo.png" width="20" height="20"/> CS student
+<img src="https://www.spbstu.ru/local/templates/main/img/logo.png" width="20" height="20"/> CS student
 
 # About Me
 
