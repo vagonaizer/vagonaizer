@@ -7,6 +7,9 @@
 
 <h4 align="left">Владимир, 21<br><br>Студент СПБПУ (Политех) имени Петра Великого, Программная Инженерия 09.03.04</h4>
 
+<b><a href="https://carbonated-sceptre-6c8.notion.site/C-dbf8ca9676ec4315a4c12bce48fa7175?pvs=74">Конспект по C++</a></b></br>
+<b><a href="https://carbonated-sceptre-6c8.notion.site/Go-72ce11c912f647558304f8b64ea67f23">GOLang и элементы бэкенда</a></b>
+
 ###
 
 <img align="right" height="200" src="https://media1.tenor.com/m/qXoV_IwNBpgAAAAd/osaka-azumanga-daioh.gif"  />
