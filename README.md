@@ -1,23 +1,70 @@
 # ✍ Vladimir Fedunov   
 
 
-<img align="left" src="https://www.spbstu.ru/local/templates/main/img/logo.png" width="30" height="30"/>
+<h2 align="left">Обо мне:</h2>
 
-<b>Computer Science Student 2022-2026</b><br/>
+###
 
+<h4 align="left">Владимир, 21<br><br>Студент СПБПУ (Политех) имени Петра Великого, Программная Инженерия 09.03.04</h4>
 
-<br clear="left"/>
+###
 
-## About Me
+<h3 align="left">Технологии и инструменты</h3>
 
-<b>Hello! I'm a Computer Science student at Peter the Great St. Petersburg Polytechnic University (SPBSTU), specializing in Software Engineering (09.03.04). I am passionate about developing a wide range of applications and have experience in creating desktop applications, mobile apps, and websites.</b>
+###
 
-Для русскоязычных товарищей прилагаю ссылку на набор конспектов/гайдов написанных мною:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="50" alt="bitbucket logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="50" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pr" height="50" alt="adobepremierepro logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ae" height="50" alt="adobeaftereffects logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="50" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="50" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
+</div>
 
-<b><a href="https://carbonated-sceptre-6c8.notion.site/C-dbf8ca9676ec4315a4c12bce48fa7175?pvs=74">Конспект по C++</a></b></br>
-<b><a href="https://carbonated-sceptre-6c8.notion.site/Go-72ce11c912f647558304f8b64ea67f23">GOLang и элементы бэкенда</a></b>
+###
 
+<img align="left" height="200" src="https://media1.tenor.com/m/qXoV_IwNBpgAAAAd/osaka-azumanga-daioh.gif"  />
 
+###
 
+<h2 align="left">конспекты/гайды</h2>
 
-Thank you for visiting my GitHub profile!
+###
+
+<h4 align="left"></h4>
+
+###
