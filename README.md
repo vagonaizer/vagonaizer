@@ -9,6 +9,10 @@
 
 ###
 
+<img align="right" height="200" src="https://media1.tenor.com/m/qXoV_IwNBpgAAAAd/osaka-azumanga-daioh.gif"  />
+
+###
+
 <h3 align="left">Технологии и инструменты</h3>
 
 ###
@@ -54,10 +58,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
 </div>
-
-###
-
-<img align="left" height="200" src="https://media1.tenor.com/m/qXoV_IwNBpgAAAAd/osaka-azumanga-daioh.gif"  />
 
 ###
 
