@@ -1,4 +1,4 @@
-# ✍ Vladimir Fedunov   
+# Vladimir Fedunov   
 
 
 <h2 align="left">Обо мне:</h2>
