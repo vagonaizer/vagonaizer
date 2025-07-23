@@ -6,6 +6,6 @@
 | Staring at terminal      | 9.5/10      |
 | Touching grass           | N/A         |
 | Avoiding frontend        | S-tier      |
-| Writing tests            |     ![trollface](pngimg.com - trollface_PNG30.png)  |
+| Writing tests            |     ![trollface](trollface.png)  |
 | Version control (barely) | Git happens |
 ---
