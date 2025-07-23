@@ -6,6 +6,6 @@
 | Staring at terminal      | 9.5/10      |
 | Touching grass           | N/A         |
 | Avoiding frontend        | S-tier      |
-| Debugging by crying      | ✅          |
-
+| Writing tests            |     🙃😂     |
+| Version control (barely) | Git happens |
 ---
